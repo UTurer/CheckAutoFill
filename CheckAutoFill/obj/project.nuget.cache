@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0kwZxIXwWYg0w7bgsGDnDh7aWl/Z1Uq6TmU3Z68ZFHjovNp05o7Hfa1EVWPGoDppULK4mSSUDogVbns21Be+3A==",
+  "dgSpecHash": "ue+KW+48rQ0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\uture\\source\\repos\\CheckAutoFill\\CheckAutoFill\\CheckAutoFill.csproj",
+  "projectFilePath": "C:\\Users\\uture\\source\\repos\\UTurer\\CheckAutoFill\\CheckAutoFill\\CheckAutoFill.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\uture\\.nuget\\packages\\emgu.cv\\4.7.0.5276\\emgu.cv.4.7.0.5276.nupkg.sha512",
     "C:\\Users\\uture\\.nuget\\packages\\emgu.cv.runtime.windows\\4.7.0.5276\\emgu.cv.runtime.windows.4.7.0.5276.nupkg.sha512",

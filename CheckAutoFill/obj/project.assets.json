@@ -1549,11 +1549,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uture\\source\\repos\\CheckAutoFill\\CheckAutoFill\\CheckAutoFill.csproj",
+      "projectUniqueName": "C:\\Users\\uture\\source\\repos\\UTurer\\CheckAutoFill\\CheckAutoFill\\CheckAutoFill.csproj",
       "projectName": "CheckAutoFill",
-      "projectPath": "C:\\Users\\uture\\source\\repos\\CheckAutoFill\\CheckAutoFill\\CheckAutoFill.csproj",
+      "projectPath": "C:\\Users\\uture\\source\\repos\\UTurer\\CheckAutoFill\\CheckAutoFill\\CheckAutoFill.csproj",
       "packagesPath": "C:\\Users\\uture\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uture\\source\\repos\\CheckAutoFill\\CheckAutoFill\\obj\\",
+      "outputPath": "C:\\Users\\uture\\Source\\Repos\\UTurer\\CheckAutoFill\\CheckAutoFill\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\uture\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1576,6 +1576,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1606,7 +1611,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
