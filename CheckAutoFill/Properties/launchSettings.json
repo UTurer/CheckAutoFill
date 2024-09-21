@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CheckAutoFill": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
